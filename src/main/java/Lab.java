@@ -15,6 +15,6 @@ public class Lab {
      * @return a minus b
      */
     public double sub(double a, double b){
-        return a - b;
+        return a-b;
     }
 }
